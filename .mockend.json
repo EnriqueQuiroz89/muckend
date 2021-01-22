@@ -5,7 +5,7 @@
     "activo": "boolean",
     "createdAt": "date",
     "categorias":{
-         "nombre":"string"
+         "nombre":"string",
           "relacion":"int"
                  }
            }
