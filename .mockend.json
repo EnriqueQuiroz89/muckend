@@ -17,8 +17,7 @@
     "oficio": "boolean",
     "nacimiento": "date", 
     "company": {
-            "name":"string",
-            "bs":"string"
+            "name":"string"
                }
      }
   }
