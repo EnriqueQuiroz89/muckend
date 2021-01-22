@@ -5,7 +5,14 @@
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
-    "comments": "Comment[]"
+    "comments": "Comment[
+  
+    "Comment": {
+    "body": "string",
+    "post": "Post"
+     }
+    
+  ]"
   },
   "Comment": {
     "body": "string",
