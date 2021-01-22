@@ -1,15 +1,16 @@
-{
-  "Restaurante": {
-    "title": "string",
-    "description": "string",
-    "activo": "boolean",
-    "createdAt": "date",
-    "categorias":{
-         "nombre":"string",
-          "relacion":"int"
-                 }
-           }
-}
 
+{
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
+  }
+}
 
 
