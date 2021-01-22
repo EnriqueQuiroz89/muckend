@@ -10,7 +10,12 @@
   "Comment": {
     "body": "string",
     "post": "Post"
-  }
-
+  },
+"Persona": {
+    "nombre": "string",
+    "edad": "int",
+    "oficio": "boolean",
+    "nacimiento": "date"
+     }
   }
 
