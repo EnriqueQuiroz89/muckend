@@ -15,7 +15,11 @@
     "nombre": "string",
     "edad": "int",
     "oficio": "boolean",
-    "nacimiento": "date"
+    "nacimiento": "date", 
+    "company": {
+            "name":"string",
+            "bs":"string"
+               }
      }
   }
 
