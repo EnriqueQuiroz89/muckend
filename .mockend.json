@@ -11,12 +11,11 @@
     "body": "string",
     "post": "Post"
   },
-"Persona": {
+"Persona": [ {
     "nombre": "string",
     "edad": "int",
     "oficio": "boolean",
-    "nacimiento": "date", 
-    "hijos": "Comment[1,2]"
-     }
+    "nacimiento": "date" 
+      } ]
   }
 
