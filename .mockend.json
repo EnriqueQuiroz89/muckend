@@ -1,8 +1,15 @@
 {
-  "Post": {
+  "Restaurante": {
     "title": "string",
-    "views": "int",
-    "published": "boolean",
+    "description": "string",
+    "activo": "boolean",
     "createdAt": "date"
-  }
+    "categorias":{
+         "nombre":"string"
+          "relacion":"int"
+                 }
+           }
 }
+
+
+
