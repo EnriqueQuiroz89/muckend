@@ -16,7 +16,7 @@
     "edad": "int",
     "oficio": "boolean",
     "nacimiento": "date", 
-    "company": "Comment"
+    "hijos": "Comment[1,2]"
      }
   }
 
