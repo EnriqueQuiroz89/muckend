@@ -1,5 +1,5 @@
 
-
+[
   "Post": {
     "title": "string",
     "views": "int",
@@ -12,5 +12,5 @@
     "post": "Post"
   }
 
-
+]
 
