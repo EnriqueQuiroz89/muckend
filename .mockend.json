@@ -16,9 +16,7 @@
     "edad": "int",
     "oficio": "boolean",
     "nacimiento": "date", 
-    "company": {
-            "name":"string"
-               }
+    "company": "Comment[]"
      }
   }
 
